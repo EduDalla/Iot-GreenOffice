@@ -14,10 +14,7 @@ A **GreenOfiice** está disposta a ajudar a saúde da sua empresa por um bem mai
 - Pedro Gustavo Schmitz - 555758
 
 ## Imagem Circuito Físico
-
-
-## Código Arduino
-
+![image](https://github.com/user-attachments/assets/52e5e82f-0e08-483c-9863-a23dcc6ff368)
 
 ## Fluxo no Nodered
 
