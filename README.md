@@ -11,6 +11,7 @@ A **GreenOfiice** está disposta a ajudar a saúde da sua empresa por um bem mai
 ## Integrantes:
 - Heloísa Real - 554535
 - Eduardo Dallabella - 556803
+- Pedro Gustavo Schmitz - 555758
 
 ## Imagem Circuito Físico
 
