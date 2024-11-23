@@ -18,9 +18,3 @@ A **GreenOfiice** está disposta a ajudar a saúde da sua empresa por um bem mai
 
 ## Fluxo no Nodered
 ![image](https://github.com/user-attachments/assets/53769be6-bbca-47df-9335-701045958ce9)
-
-
-## Dashboard Nodered
-
-
-## Screenshot Hivemq
