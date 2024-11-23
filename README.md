@@ -16,5 +16,10 @@ A **GreenOfiice** está disposta a ajudar a saúde da sua empresa por um bem mai
 ## Imagem Circuito Físico
 ![image](https://github.com/user-attachments/assets/52e5e82f-0e08-483c-9863-a23dcc6ff368)
 
+Aqui no projeto físico, o sistema está representando nosso ar-condicionado inteligente:
+- sensor PIR está como "ON" e "OFF" para status do equipamento
+- o sensor potenciometro simulando o sensor o MQ135, que mede a qualidade do ar a partir de gases nocivos que estão no ambiente
+- o sensor DHT22, trazendo dados de umidade e temperatura, fazendo com que o ar-condicionado regule de acordo com o ambiente
+
 ## Fluxo no Nodered
 ![image](https://github.com/user-attachments/assets/53769be6-bbca-47df-9335-701045958ce9)
